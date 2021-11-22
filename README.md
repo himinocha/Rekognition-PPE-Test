@@ -9,7 +9,8 @@ Here is our basic achitecural diagram of our project:
 
 ![alt text](https://qtm350-fp.s3.amazonaws.com/QTM350+Final+Architectural+Diagram.drawio.png)
 
-Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-project-proposal+(1).html\
+Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-project-proposal+(1).html
+
 Link to our demo notebook .html: https://qtm350-fp.s3.amazonaws.com/html-asset/PPE-demo.html
 
 You can also see our demo version in `PPE-demo.ipynb` file.
