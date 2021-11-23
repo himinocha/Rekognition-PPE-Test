@@ -5,8 +5,9 @@ by Jeremy Montgomery, Se Eun Kim, and Isaac Cha(Mino).
 
 In this project, we will test Amazon Rekognition's functionality of PPE detection.
 We tested with over 100 pictures including stock photos and self-taken ones with PPE variations.
+Here is our basic achitecural diagram of our project:
 
-### Here is our basic achitecural diagram of our project:
+### Achitectural Diagram
 ![alt text](https://qtm350-fp.s3.amazonaws.com/QTM350+Final+Architectural+Diagram.drawio.png)
 
 
