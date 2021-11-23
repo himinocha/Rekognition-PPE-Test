@@ -13,5 +13,7 @@ Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-pr
 
 Link to our demo notebook .html: https://qtm350-fp.s3.amazonaws.com/html-asset/PPE-demo.html
 
+Link to our picture dataset: https://qtm350-fp.s3.amazonaws.com/image-asset/pictures.zip
+
 
 You can also download our notebook version of demo in our repository:  `PPE-demo.ipynb`.
