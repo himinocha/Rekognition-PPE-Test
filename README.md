@@ -1,4 +1,4 @@
-## Amazon Rekognition: Workplace Safety
+# Amazon Rekognition: Workplace Safety
 
 This is the final project of QTM350 at Emory University
 by **Jeremy Montgomery**, **Se Eun Kim**, and **Isaac Cha(Mino)**.
