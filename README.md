@@ -15,5 +15,7 @@ Link to our demo notebook .html: https://qtm350-fp.s3.amazonaws.com/html-asset/P
 
 Link to our picture dataset: https://qtm350-fp.s3.amazonaws.com/image-asset/pictures.zip
 
+Link to our result csv: https://qtm350-fp.s3.amazonaws.com/csv/detect_ppe_output.csv
+
 
 You can also download our notebook version of demo in our repository:  `PPE-demo.ipynb`.
