@@ -19,9 +19,10 @@ Here is our basic achitecural diagram of our project.
 ### If you are curious about the exact steps of our analysis, please check the follwings:
 
 - Link to our demo notebook .html: https://qtm350-fp.s3.amazonaws.com/html-asset/PPE-demo.html
+- Link to our notebook using Rekognition: https://qtm350-fp.s3.amazonaws.com/html-asset/PPE-fp.html
 - Link to our picture dataset: https://qtm350-fp.s3.amazonaws.com/image-asset/pictures.zip
 - Link to our result csv: https://qtm350-fp.s3.amazonaws.com/csv/detect_ppe_output.csv
 
 
 
-You can also download our notebook version of demo in our repository:  `PPE-demo.ipynb`.
+You can also download our notebooks in our repository:  `PPE-demo.ipynb`, `PPE-fp.ipynb`.
