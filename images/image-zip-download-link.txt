@@ -1,0 +1,3 @@
+https://qtm350-fp.s3.amazonaws.com/image-asset/pictures.zip
+
+This is the download link for our entire image dataset.
