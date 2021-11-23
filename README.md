@@ -1,4 +1,5 @@
 ## Amazon Rekognition: *Workplace Safety*
+### PPE Detection
 
 This is the Final Project of QTM350 at Emory University
 by **Jeremy Montgomery**, **Se Eun Kim**, and **Isaac Cha(Mino)**.
