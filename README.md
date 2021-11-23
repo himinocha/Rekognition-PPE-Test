@@ -15,7 +15,7 @@ Here is our basic achitecural diagram of our project:
 - Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-project-proposal+(1).html
 
 
-### If you are curious about our exact steps to reach our analysis, please check the follwings:
+### If you are curious about the exact steps of our analysis, please check the follwings:
 
 - Link to our demo notebook .html: https://qtm350-fp.s3.amazonaws.com/html-asset/PPE-demo.html
 - Link to our picture dataset: https://qtm350-fp.s3.amazonaws.com/image-asset/pictures.zip
