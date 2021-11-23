@@ -1,7 +1,7 @@
 ## Amazon Rekognition: Workplace Safety
 
 This is the final project of QTM350 at Emory University
-by Jeremy Montgomery, Se Eun Kim, and Isaac Cha(Mino).
+by **Jeremy Montgomery**, **Se Eun Kim**, and **Isaac Cha(Mino)**.
 
 In this project, we will test Amazon Rekognition's functionality of PPE detection.
 We tested with over 100 pictures including stock photos and self-taken ones with PPE variations.
