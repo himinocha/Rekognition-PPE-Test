@@ -26,4 +26,4 @@ Here is our basic achitecural diagram of our project.
 
 
 
-You can also download our notebooks in our repository:  `PPE-demo.ipynb`, `PPE-fp.ipynb`.
+You can also download our notebooks in our repository:  `PPE-demo.ipynb`, `PPE-fp.ipynb` and `PPE_fp_visualization_analysis.ipynb`.
