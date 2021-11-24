@@ -13,7 +13,7 @@ Here is our basic achitecural diagram of our project.
 
 
 ### Please check our blog, as we elaborate our questions and approaches in our blog posts.
-- Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-project-proposal+(1).html
+- Link to our blog post: https://prelim-project-proposal.s3.amazonaws.com/final-project-blog.html
 
 
 ### If you are curious about the exact steps of our analysis, please check the follwings:
